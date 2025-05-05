@@ -1,0 +1,20 @@
+{
+  "name": "qa_unittesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Signup.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mercykilonzo/QA_UnitTesting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mercykilonzo/QA_UnitTesting/issues"
+  },
+  "homepage": "https://github.com/mercykilonzo/QA_UnitTesting#readme"
+}
