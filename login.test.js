@@ -1,4 +1,4 @@
-const { login, signup } = require('./authentication');
+const { login, signup } = require('./Signup');
 describe('Authentication Tests', () => {
     describe('Login', () => {
         it('should successfully log in with valid credentials', () => {
